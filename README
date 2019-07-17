@@ -1,0 +1,4 @@
+embed_c_code
+
+it's a simple tool for transforming embedding binary files into plain-text C
+code.
